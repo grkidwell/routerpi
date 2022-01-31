@@ -1,0 +1,13 @@
+site_name: Router Pi
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Raspi OS Image: raspios.md
+    - Ethernet Dongle: ethernetdongle.md
+    - Autossh: autossh.md
+    - Hostapd: hostapd.md
+    - Dnsmasq: dnsmasq.md
+    - Dhcpcd: dhcpcd.md
+    - Iptables: iptables.md
+    - Systemd-Networkd: systemdnetworkd.md
+    - Wireguard: wireguard.md
